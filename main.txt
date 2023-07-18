@@ -1,0 +1,1 @@
+the file main.txt si created for git assignment
